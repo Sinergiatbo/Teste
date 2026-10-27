@@ -2,7 +2,7 @@
 window.APP_CONFIG = {
   // ID do cliente OAuth criado no Google Cloud Console (veja o README).
   // Exemplo: '1234567890-abc123.apps.googleusercontent.com'
-  GOOGLE_CLIENT_ID: '',
+  GOOGLE_CLIENT_ID: '419825303681-jea2tmqosjrtq7lmdlf2d9gulu1jvucb.apps.googleusercontent.com',
 
   // Agenda onde as sessões serão criadas. 'primary' = agenda principal da conta.
   // Para usar outra agenda, coloque o ID dela (Configurações da agenda > Integrar agenda).
